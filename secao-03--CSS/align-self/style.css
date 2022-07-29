@@ -32,10 +32,12 @@ body {
 
 .item-1 {
   background-color: red;
+  align-self: flex-start;
 }
 
 .item-2 {
   background-color: blue;
+  align-self: flex-start;
 }
 
 .item-3 {
@@ -43,4 +45,7 @@ body {
 }
 .item-4 {
   background-color: brown;
+}
+h1{
+ text-align: center;
 }
